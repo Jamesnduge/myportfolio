@@ -160,20 +160,27 @@ html {
 	margin-left:50px;
    text-align: center;
 }
-.h1{
+.ter{
 	font-size:30px;
 	width: 1000px;
 	margin: auto;
 	margin-top: 30px;
 }
 .profile{
-	text-align: center;
-	color: crimson;
+	color: ;
 	font-weight: bold;
 }
 .image{
 	float: left;
-	padding-bottom: 100%;
-	margin-top: 0
-
+}
+h3{
+	color: navy;
+	font-family: fantasy;
+	text-align: center;
+}
+.hobies p{
+	text-align: left;
+}
+.profile p{
+	text-align: left;
 }
