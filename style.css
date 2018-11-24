@@ -6,7 +6,7 @@ body{
 	padding-right: 50px;
 	padding-top: 50px;
 	position: relative;
-	overflow: hidden;
+	overflow: scroll;
 	background-repeat: no-repeat;
 	background-size: cover;
 	/*background-color: teal;*/
@@ -183,4 +183,11 @@ h3{
 }
 .profile p{
 	text-align: left;
+}
+.projects{
+	font-style: italic;
+ float: right;
+}
+h1{
+	color: blueviolet;
 }
